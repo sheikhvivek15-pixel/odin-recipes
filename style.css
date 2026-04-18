@@ -6,10 +6,10 @@ h1 {
 }
 
 * {
-  font-family: @font-primary;
-  padding: 2em;
+  padding: 0em;
   margin: 2em;
   border: 2em;
+  text-align: center;
 }
 
 .container {
